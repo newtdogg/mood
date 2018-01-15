@@ -2,6 +2,7 @@
   "name": "mood",
   "version": "0.0.1",
   "description": "The OFFICIAL #mood app",
+  "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
@@ -15,6 +16,5 @@
   ],
   "author": "Crodithink",
   "devDependencies": {
-    "electron": "~1.7.8"
   }
 }
